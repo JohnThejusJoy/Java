@@ -1,12 +1,12 @@
-package AM3;
+//package AM3;
 
-import AM4.B;
+//import AM4.B;
 
-public class C extends D{
+//public class C extends D{
 
-		public static void main(String[]args) {
-			C b = new C ();
-			b.display();
-		}
-	}
+	//	public static void main(String[]args) {
+		//	C b = new C ();
+		//	b.display();
+	//	}
+	//}
 
